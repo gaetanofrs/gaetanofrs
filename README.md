@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I’m Gaetano Frasca | @gaetanofrs
 <h3 align="left">👀 I’m interested in Cybersecurity and Data Science
-<h3 align="left">🌱 I’m currently learning Information Engineering.
+<h3 align="left">🌱 I’m currently learning Computer Engineering.
 
 ## 💬 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaetano-frasca-b7384a2a5/)
