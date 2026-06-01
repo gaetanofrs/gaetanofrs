@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I’m Gaetano Frasca | @gaetanofrs
+<h1 align="left">👋 Hi, I’m Gaetano | @gaetanofrs
 <h3 align="left">👀 I’m interested in Cybersecurity and Network Management.
 <h3 align="left">🌱 I’m currently studying Computer Engineering.
 
